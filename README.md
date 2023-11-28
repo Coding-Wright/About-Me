@@ -1,4 +1,4 @@
-<span style="color:yellow;font-weight:400;font-size:16px">
+<span style="font-weight:400;font-size:16px">
     <h2>Hi There!</h2>
 </span>
 
@@ -8,7 +8,7 @@
 * 👨‍🎓 I'm currently learning Python, Sql, Java
 
 
-<span style="color:yellow;font-weight:400;font-size:16px">
+<span style="font-weight:400;font-size:16px">
     <h2>Tools and Languages</h2>
 </span>
 
